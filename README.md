@@ -1,117 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="richi — building things that think back">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0a0a0f"/>
-      <stop offset="1" stop-color="#0f1422"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7c3aed"/>
-      <stop offset="0.5" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#34d399"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e293b" stroke-width="0.5"/>
-    </pattern>
-    <filter id="glow"><feGaussianBlur stdDeviation="2"/></filter>
-  </defs>
+<div align="center">
 
-  <rect width="1200" height="360" fill="url(#bg)"/>
-  <rect width="1200" height="360" fill="url(#grid)" opacity="0.45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0033,100:000000&height=220&section=header&text=RICHI&fontSize=80&fontColor=ff00ea&animation=fadeIn&fontAlignY=38&desc=building%20things%20that%20think%20back&descAlignY=58&descSize=18&descColor=00f0ff" width="100%"/>
 
-  <g stroke="#22d3ee" stroke-width="0.8" fill="none" opacity="0.55">
-    <circle cx="980" cy="80"  r="3.5" fill="#22d3ee"/>
-    <circle cx="1080" cy="60" r="3.5" fill="#7c3aed"/>
-    <circle cx="1130" cy="150" r="3.5" fill="#34d399"/>
-    <circle cx="1010" cy="200" r="3.5" fill="#22d3ee"/>
-    <circle cx="900"  cy="150" r="3.5" fill="#7c3aed"/>
-    <circle cx="1070" cy="260" r="3.5" fill="#34d399"/>
-    <circle cx="960"  cy="290" r="3.5" fill="#22d3ee"/>
-    <line x1="980"  y1="80"  x2="1080" y2="60"/>
-    <line x1="1080" y1="60"  x2="1130" y2="150"/>
-    <line x1="1130" y1="150" x2="1010" y2="200"/>
-    <line x1="1010" y1="200" x2="900"  y2="150"/>
-    <line x1="900"  y1="150" x2="980"  y2="80"/>
-    <line x1="1010" y1="200" x2="1070" y2="260"/>
-    <line x1="1070" y1="260" x2="960"  y2="290"/>
-    <line x1="900"  y1="150" x2="960"  y2="290"/>
-    <line x1="980"  y1="80"  x2="1010" y2="200"/>
-  </g>
+<br/>
 
-  <line x1="0" y1="220" x2="1200" y2="220" stroke="url(#accent)" stroke-width="0.6" opacity="0.5"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=shipping+agentic+systems+%E2%80%94+breaking+them+tastefully;HITL+orchestration+%C2%B7+LangGraph+%C2%B7+RL+%C2%B7+multi-agent+pipelines;%E4%B8%AD%E6%96%87%E5%AD%A6%E4%B9%A0%E4%B8%AD+%E2%80%94+currently+rereading+Attention+Is+All+You+Need" alt="Typing SVG" />
 
-  <g font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace">
-    <text x="60" y="160" font-size="22" fill="#94a3b8" letter-spacing="6">$ whois</text>
-    <text x="60" y="220" font-size="92" font-weight="600" fill="url(#accent)" filter="url(#glow)">richi</text>
-    <text x="60" y="260" font-size="20" fill="#cbd5e1" letter-spacing="0.5">building things that think back</text>
-  </g>
+<br/>
 
-  <g font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="13" fill="#94a3b8">
-    <text x="60"  y="310">●  online</text>
-    <text x="180" y="310" fill="#7c3aed">●  training</text>
-    <text x="320" y="310" fill="#22d3ee">●  shipping</text>
-    <text x="460" y="310" fill="#34d399">●  fine-tuning</text>
-  </g>
-</svg>
+[![GitHub followers](https://img.shields.io/github/followers/riesbri?label=follow&style=for-the-badge&color=ff00ea&labelColor=0a0014)](https://github.com/riesbri?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=riesbri&style=for-the-badge&color=00f0ff&labelColor=0a0014&label=views)](https://github.com/riesbri)
+[![Status](https://img.shields.io/badge/status-training-ff00ea?style=for-the-badge&labelColor=0a0014)](#)
 
----
+</div>
 
-# $ ./whoami
-> richi. shipping ai stuff. breaking it tastefully.
+<br/>
 
-<br>
-
-## Ships
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
 
 ```
-AI · AGENTS · METHODOLOGY
-──────────────────────────
-  xiecheng                — HITL methodology & rhythm system for AI-augmented dev
-  richi-ai-framework      — orchestrated coding agents, 6-step workflow, HITL gates
-  richi-ai-component-1    — API + dashboard for the framework above
-  richi-ai-component-2    — LangGraph orchestrator + LiteLLM gateway for the same
-  hermes-config           — runtime config for a long-lived hermes agent
-  hermes-agent            — upstream fork i patched
-
-AI · LANGUAGE
-─────────────
-  aiyu                    — Flutter Mandarin phrasebook, PocketBase + local MLX LLM Integration
-  aiyu-legacy             — original Spring Boot version of aiyu
-  aiyu_harmony            — HarmonyOS NEXT port of aiyu in ArkTS
-
-FLIGHTS · DATA
-──────────────
-  xinric-flights          — Spain↔China fare tracker, 6 sources, Explore mode
-  xinric-flights-app      — Flutter Android client for xinric-flights
-  FlightScanner           — ADS-B SDR aircraft tracker, Discord webhook alerts
-  testradar               — local dashboard for Cucumber JSON test reports
-
-HOME · LISTS · LIFE
-───────────────────
-  rpi-monitoring          — Pi 5 stack: Telegraf → InfluxDB → Grafana, MQTT, Zigbee
-  lalista                 — shared grocery list, real-time, ES / EN / 中文
-  cartlytics              — multi-lang supermarket PDF receipt parser, AI spending insights
-  trend-monitoring        — Gatling + Grafana + InfluxDB performance testing framework
+$ whoami
+> richi — FDE-minded builder
+> agentic workflows, HITL gates, RL loops
+> i give machines opinions.
+> they give me back trouble.
 ```
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ```
-stack    │  python · typescript · dart · java · shell
-runs on  │  raspberry pi 5 · opencode · hermes · tailscale
+stack    │  python · typescript · dart · java
+runs on  │  raspberry pi 5 · tailscale · hermes
 reads    │  papers at 2am, mostly transformers
-writes   │  docs my future self will actually read
+writes   │  docs my future self will thank me for
 ```
 
-<br>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Currently Shipping
+
+<table align="center" border="0" cellpadding="8">
+<tr><th colspan="2" align="left">🤖 AI · AGENTS · METHODOLOGY</th></tr>
+<tr><td><b>xiecheng</b></td><td>HITL methodology &amp; rhythm system for AI-augmented dev</td></tr>
+<tr><td><b>richi-ai-framework</b></td><td>orchestrated coding agents, 6-step workflow, HITL gates</td></tr>
+<tr><td><b>richi-ai-component-1</b></td><td>API + dashboard for the framework above</td></tr>
+<tr><td><b>richi-ai-component-2</b></td><td>LangGraph orchestrator + LiteLLM gateway, same system</td></tr>
+<tr><td><b>hermes-config / hermes-agent</b></td><td>long-lived agent runtime, patched upstream fork</td></tr>
+<tr><th colspan="2" align="left">🗣️ AI · LANGUAGE</th></tr>
+<tr><td><b>aiyu</b></td><td>Flutter Mandarin phrasebook · PocketBase + local MLX LLM</td></tr>
+<tr><td><b>aiyu_harmony</b></td><td>HarmonyOS NEXT port, ArkTS</td></tr>
+<tr><th colspan="2" align="left">✈️ FLIGHTS · DATA</th></tr>
+<tr><td><b>xinric-flights</b></td><td>Spain↔China fare tracker, 6 sources, Explore mode</td></tr>
+<tr><td><b>FlightScanner</b></td><td>ADS-B SDR aircraft tracker, Discord webhook alerts</td></tr>
+<tr><th colspan="2" align="left">🏠 HOME · LIFE</th></tr>
+<tr><td><b>rpi-monitoring</b></td><td>Pi 5 stack: Telegraf → InfluxDB → Grafana, MQTT, Zigbee</td></tr>
+<tr><td><b>cartlytics</b></td><td>multilingual receipt parser, AI spending insights</td></tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/> Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0a0014?style=for-the-badge&logo=python&logoColor=00f0ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0014?style=for-the-badge&logo=typescript&logoColor=ff00ea)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a0014?style=for-the-badge&logo=graphql&logoColor=00f0ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0014?style=for-the-badge&logo=pytorch&logoColor=ff00ea)
+![Dart](https://img.shields.io/badge/Dart-0a0014?style=for-the-badge&logo=dart&logoColor=00f0ff)
+![Flutter](https://img.shields.io/badge/Flutter-0a0014?style=for-the-badge&logo=flutter&logoColor=ff00ea)
+![Java](https://img.shields.io/badge/Java-0a0014?style=for-the-badge&logo=openjdk&logoColor=00f0ff)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0a0014?style=for-the-badge&logo=raspberrypi&logoColor=ff00ea)
+![Docker](https://img.shields.io/badge/Docker-0a0014?style=for-the-badge&logo=docker&logoColor=00f0ff)
+![Tailscale](https://img.shields.io/badge/Tailscale-0a0014?style=for-the-badge&logo=tailscale&logoColor=ff00ea)
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="28"/> Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=riesbri&show_icons=true&theme=dracula&bg_color=0a0014&title_color=ff00ea&icon_color=00f0ff&text_color=c9d1d9&border_color=ff00ea&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riesbri&layout=compact&theme=dracula&bg_color=0a0014&title_color=ff00ea&text_color=c9d1d9&border_color=00f0ff&hide_border=false" width="38%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riesbri&theme=dark&background=0a0014&ring=ff00ea&fire=00f0ff&currStreakLabel=ff00ea&border=00f0ff" width="65%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 ### 我在学中文
+<i>currently reading: Attention Is All You Need (again)</i>
 
-<sub>currently reading: <i>attention is all you need</i> (again).</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:0a0014&height=120&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
----
