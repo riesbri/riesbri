@@ -204,6 +204,10 @@ speaks   │  en · es · 中文 (学习中)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riesbri&theme=dark&background=0a0014&ring=ff00ea&fire=00f0ff&currStreakLabel=ff00ea&border=00f0ff" width="65%"/>
 
+<br/><br/>
+
+![Private Work](https://img.shields.io/badge/private%20work-ongoing%20%F0%9F%94%92-00f0ff?style=for-the-badge&labelColor=0a0014)
+
 </div>
 
 <br/>
