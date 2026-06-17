@@ -114,18 +114,4 @@ writes   │  docs my future self will actually read
 
 <br>
 
-<div align="center">
-
-<sub>2★ on the only public thing in this profile. the rest is in the oven.</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub><i>made on a pi, in the cloud, in the gaps. — last updated when i remembered to push.</i></sub>
-
-</div>
-
 ---
