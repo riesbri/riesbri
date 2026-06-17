@@ -70,12 +70,12 @@ AI · AGENTS · METHODOLOGY
   richi-ai-component-1    — API + dashboard for the framework above
   richi-ai-component-2    — LangGraph orchestrator + LiteLLM gateway for the same
   hermes-config           — runtime config for a long-lived hermes agent
-  hermes-agent            — upstream fork i patched; PR still open
+  hermes-agent            — upstream fork i patched
 
 AI · LANGUAGE
 ─────────────
-  aiyu                    — Flutter Mandarin phrasebook, PocketBase + local MLX LLM
-  aiyu-legacy             — original Spring Boot version of aiyu (kept for history)
+  aiyu                    — Flutter Mandarin phrasebook, PocketBase + local MLX LLM Integration
+  aiyu-legacy             — original Spring Boot version of aiyu
   aiyu_harmony            — HarmonyOS NEXT port of aiyu in ArkTS
 
 FLIGHTS · DATA
@@ -89,8 +89,8 @@ HOME · LISTS · LIFE
 ───────────────────
   rpi-monitoring          — Pi 5 stack: Telegraf → InfluxDB → Grafana, MQTT, Zigbee
   lalista                 — shared grocery list, real-time, ES / EN / 中文
-  cartlytics              — multi-lang PDF receipt parser, AI spending insights
-  trend-monitoring        — Gatling + Grafana + InfluxDB from a past life; kept for reference
+  cartlytics              — multi-lang supermarket PDF receipt parser, AI spending insights
+  trend-monitoring        — Gatling + Grafana + InfluxDB performance testing framework
 ```
 
 <br>
