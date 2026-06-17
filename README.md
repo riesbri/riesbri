@@ -56,7 +56,7 @@
 ---
 
 # $ ./whoami
-> richi. shipping ai stuff. breaking it tastefully. fixing it on a pi.
+> richi. shipping ai stuff. breaking it tastefully.
 
 <br>
 
