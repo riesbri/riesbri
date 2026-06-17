@@ -60,7 +60,7 @@
 
 <br>
 
-## what i ship
+## Ships
 
 ```
 AI · AGENTS · METHODOLOGY
