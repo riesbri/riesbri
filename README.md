@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=shipping+agentic+systems+%E2%80%94+breaking+them+tastefully;HITL+orchestration+%C2%B7+LangGraph+%C2%B7+RL+%C2%B7+multi-agent+pipelines;%E4%B8%AD%E6%96%87%E5%AD%A6%E4%B9%A0%E4%B8%AD+%E2%80%94+currently+rereading+Attention+Is+All+You+Need" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=70&lines=AI+Engineer+%E2%80%94+agentic+systems+%26+human-in-the-loop+workflows;LangGraph+orchestration+%C2%B7+multi-agent+pipelines+%C2%B7+RL+fine-tuning" alt="Typing SVG" />
 
 <br/>
 
@@ -22,8 +22,8 @@
 
 ```
 $ whoami
-> richi — FDE-minded builder
-> agentic workflows, HITL gates, RL loops
+> richi — AI engineer, agentic systems
+> human-in-the-loop workflows · RL · LLM orchestration
 > i give machines opinions.
 > they give me back trouble.
 ```
@@ -32,10 +32,10 @@ $ whoami
 <td width="50%" valign="top">
 
 ```
-stack    │  python · typescript · dart · java
 runs on  │  raspberry pi 5 · tailscale · hermes
 reads    │  papers at 2am, mostly transformers
 writes   │  docs my future self will thank me for
+speaks   │  en · es · 中文 (学习中)
 ```
 
 </td>
@@ -46,42 +46,151 @@ writes   │  docs my future self will thank me for
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Currently Shipping
 
-<table align="center" border="0" cellpadding="8">
-<tr><th colspan="2" align="left">🤖 AI · AGENTS · METHODOLOGY</th></tr>
-<tr><td><b>xiecheng</b></td><td>HITL methodology &amp; rhythm system for AI-augmented dev</td></tr>
-<tr><td><b>richi-ai-framework</b></td><td>orchestrated coding agents, 6-step workflow, HITL gates</td></tr>
-<tr><td><b>richi-ai-component-1</b></td><td>API + dashboard for the framework above</td></tr>
-<tr><td><b>richi-ai-component-2</b></td><td>LangGraph orchestrator + LiteLLM gateway, same system</td></tr>
-<tr><td><b>hermes-config / hermes-agent</b></td><td>long-lived agent runtime, patched upstream fork</td></tr>
-<tr><th colspan="2" align="left">🗣️ AI · LANGUAGE</th></tr>
-<tr><td><b>aiyu</b></td><td>Flutter Mandarin phrasebook · PocketBase + local MLX LLM</td></tr>
-<tr><td><b>aiyu_harmony</b></td><td>HarmonyOS NEXT port, ArkTS</td></tr>
-<tr><th colspan="2" align="left">✈️ FLIGHTS · DATA</th></tr>
-<tr><td><b>xinric-flights</b></td><td>Spain↔China fare tracker, 6 sources, Explore mode</td></tr>
-<tr><td><b>FlightScanner</b></td><td>ADS-B SDR aircraft tracker, Discord webhook alerts</td></tr>
-<tr><th colspan="2" align="left">🏠 HOME · LIFE</th></tr>
-<tr><td><b>rpi-monitoring</b></td><td>Pi 5 stack: Telegraf → InfluxDB → Grafana, MQTT, Zigbee</td></tr>
-<tr><td><b>cartlytics</b></td><td>multilingual receipt parser, AI spending insights</td></tr>
+<div align="center">
+
+![AI · AGENTS · METHODOLOGY](https://img.shields.io/badge/AI%20%C2%B7%20AGENTS%20%C2%B7%20METHODOLOGY-ff00ea?style=for-the-badge&labelColor=0a0014)
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/xiecheng">xiecheng</a></b><br/>
+<sub>HITL methodology &amp; rhythm system for AI-augmented dev</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/richi-ai-framework">richi-ai-framework</a></b><br/>
+<sub>orchestrated coding agents, 6-step workflow, HITL gates</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/richi-ai-component-1">richi-ai-component-1</a></b><br/>
+<sub>API + dashboard for the framework above</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/richi-ai-component-2">richi-ai-component-2</a></b><br/>
+<sub>LangGraph orchestrator + LiteLLM gateway, same system</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/hermes-config">hermes-config</a></b><br/>
+<sub>runtime config for a long-lived hermes agent</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/hermes-agent">hermes-agent</a></b><br/>
+<sub>upstream fork i patched</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![AI · LANGUAGE](https://img.shields.io/badge/AI%20%C2%B7%20LANGUAGE-00f0ff?style=for-the-badge&labelColor=0a0014)
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/aiyu">aiyu</a></b><br/>
+<sub>Flutter Mandarin phrasebook, PocketBase + local MLX LLM</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/aiyu-legacy">aiyu-legacy</a></b><br/>
+<sub>original Spring Boot version of aiyu</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/aiyu_harmony">aiyu_harmony</a></b><br/>
+<sub>HarmonyOS NEXT port, ArkTS</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![FLIGHTS · DATA](https://img.shields.io/badge/FLIGHTS%20%C2%B7%20DATA-ff00ea?style=for-the-badge&labelColor=0a0014)
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/xinric-flights">xinric-flights</a></b><br/>
+<sub>Spain↔China fare tracker, 6 sources, Explore mode</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/xinric-flights-app">xinric-flights-app</a></b><br/>
+<sub>Flutter Android client for xinric-flights</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/FlightScanner">FlightScanner</a></b><br/>
+<sub>ADS-B SDR aircraft tracker, Discord webhook alerts</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/testradar">testradar</a></b><br/>
+<sub>local dashboard for Cucumber JSON test reports</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![HOME · LIFE](https://img.shields.io/badge/HOME%20%C2%B7%20LIFE-00f0ff?style=for-the-badge&labelColor=0a0014)
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/rpi-monitoring">rpi-monitoring</a></b><br/>
+<sub>Pi 5 stack: Telegraf → InfluxDB → Grafana, MQTT, Zigbee</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/lalista">lalista</a></b><br/>
+<sub>shared grocery list, real-time, ES / EN / 中文</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/cartlytics">cartlytics</a></b><br/>
+<sub>multi-lang supermarket PDF receipt parser, AI insights</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<b><a href="https://github.com/riesbri/trend-monitoring">trend-monitoring</a></b><br/>
+<sub>Gatling + Grafana + InfluxDB performance testing</sub>
+</td>
+</tr>
 </table>
 
 <br/>
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/> Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0a0014?style=for-the-badge&logo=python&logoColor=00f0ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0014?style=for-the-badge&logo=typescript&logoColor=ff00ea)
-![LangGraph](https://img.shields.io/badge/LangGraph-0a0014?style=for-the-badge&logo=graphql&logoColor=00f0ff)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0014?style=for-the-badge&logo=pytorch&logoColor=ff00ea)
-![Dart](https://img.shields.io/badge/Dart-0a0014?style=for-the-badge&logo=dart&logoColor=00f0ff)
-![Flutter](https://img.shields.io/badge/Flutter-0a0014?style=for-the-badge&logo=flutter&logoColor=ff00ea)
-![Java](https://img.shields.io/badge/Java-0a0014?style=for-the-badge&logo=openjdk&logoColor=00f0ff)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0a0014?style=for-the-badge&logo=raspberrypi&logoColor=ff00ea)
-![Docker](https://img.shields.io/badge/Docker-0a0014?style=for-the-badge&logo=docker&logoColor=00f0ff)
-![Tailscale](https://img.shields.io/badge/Tailscale-0a0014?style=for-the-badge&logo=tailscale&logoColor=ff00ea)
-
-</div>
+<p align="center">
+<img height="42" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff"/>
+<br/><br/>
+<img height="42" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff"/>&nbsp;
+<img height="42" src="https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff"/>
+<br/><br/>
+<img height="42" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=fff"/>&nbsp;
+<img height="42" src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=fff"/>
+</p>
 
 <br/>
 
